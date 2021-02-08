@@ -7,7 +7,7 @@
 
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Laura's github stats](https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark)](https://github.com/lauraferraz5/github-readme-stats) ![Laura's github stats](https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true)
 
 </p>
 
