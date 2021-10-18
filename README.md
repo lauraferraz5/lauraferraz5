@@ -9,7 +9,7 @@
   <a href="https://github.com/lauraferraz5/lauraferraz5">
     <img
       align="center"
-      height="170"
+      height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark&layout=compact&langs_count=6"
     />
   </a>
@@ -17,17 +17,11 @@
   <a href="https://github.com/lauraferraz5/lauraferraz5">
     <img
       align="center"
-      height="170"
+      height="165"
       src="https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true"
     />
   </a>
 </p>
-
-<!-- <p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark&layout=compact&langs_count=6)](https://github.com/lauraferraz5/github-readme-stats) ![Laura's github stats](https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true)
-
-</p> -->
 
 <p>
 <img src="https://camo.githubusercontent.com/2fad14d202b24de54ef28fb28fc41b3fe661fc22ca72ab6045ed280d277bb536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" />
