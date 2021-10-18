@@ -9,7 +9,7 @@
   <a href="https://github.com/lauraferraz5/lauraferraz5">
     <img
       align="center"
-      height="180"
+      height="170"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark&layout=compact&langs_count=6"
     />
   </a>
@@ -17,7 +17,7 @@
   <a href="https://github.com/lauraferraz5/lauraferraz5">
     <img
       align="center"
-      height="180"
+      height="170"
       src="https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true"
     />
   </a>
