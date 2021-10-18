@@ -10,16 +10,17 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark&layout=compact&langs_count=6"
+      src="https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true"
     />
   </a>
-  
-  <a href="https://github.com/lauraferraz5/lauraferraz5">
+
+    <a href="https://github.com/lauraferraz5/lauraferraz5">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark&layout=compact&langs_count=6"
     />
+
   </a>
 </p>
 
