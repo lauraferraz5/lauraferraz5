@@ -1,6 +1,6 @@
 <h2>Hi, there! 👋</h2>
 
-<p><img src="./img/card.png" alt="card" /></p>
+<p><img align="center" src="./img/card.png" alt="card" /></p>
 
 <a href="https://www.linkedin.com/in/lauraferrazcavalcanti/"><img src="https://img.shields.io/badge/-LinkedIn-teal?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
 <a href="mailto:lauraferraz5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-teal?logo=gmail&logoColor=white&style=flat" alt="Gmail" /></a>
@@ -10,6 +10,7 @@
     <img
       align="center"
       height="165"
+      width="400"
       src="https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true"
     />
   </a>
@@ -18,6 +19,7 @@
     <img
       align="center"
       height="165"
+      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark&layout=compact&langs_count=6"
     />
   </a>  
